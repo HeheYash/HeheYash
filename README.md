@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 💫 About Me: Yash Walhekar
 I’m a cybersecurity student currently working on security projects, AI chatbots, and client websites, looking to collaborate on AI and defensive tools, seeking help with advanced malware analysis, learning Number Theory and Generative AI, happy to talk about cybersecurity, AI, and web development, and a fun fact is that I genuinely enjoy juggling all three.
 
 
