@@ -34,6 +34,8 @@ B.Tech Computer Science (Cybersecurity) student at Ramrao Adik Institute of Tech
 
 **[Password Guardian](https://github.com/HeheYash/PasswordGuardian)** — Privacy-first password strength analyzer with real-time entropy scoring and HaveIBeenPwned breach detection via k-anonymity — the actual password never leaves the browser.
 
+[SIEM Dashboard](https://github.com/HeheYash/SteganoGuard)** — 
+
 ---
 
 ## 🌐 Connect
