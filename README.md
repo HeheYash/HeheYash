@@ -34,7 +34,7 @@ B.Tech Computer Science (Cybersecurity) student at Ramrao Adik Institute of Tech
 
 **[Password Guardian](https://github.com/HeheYash/PasswordGuardian)** — Privacy-first password strength analyzer with real-time entropy scoring and HaveIBeenPwned breach detection via k-anonymity — the actual password never leaves the browser.
 
-[SIEM Dashboard](https://github.com/HeheYash/SteganoGuard)** — 
+[SIEM Dashboard](https://github.com/HeheYash/siem-dashboard.git)** — Self-hosted SIEM dashboard with syslog ingestion, a declarative correlation engine for detecting brute-force/port-scan/injection attacks, JWT-secured REST API, and a live React dashboard. FastAPI + SQLAlchemy backend, tested with pytest, CI'd on every push.
 
 ---
 
